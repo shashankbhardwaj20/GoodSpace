@@ -1,0 +1,9 @@
+.nav_bar{
+    display: flex;
+    width: 1920px;
+    height: 88px;
+    padding: 15.882px 1572px 15.882px 92px;
+    align-items: center;
+    flex-shrink: 0;
+}
+
